@@ -54,6 +54,7 @@
     <Compile Include="kata\8kyu\RemoveFirstAndLastCharacter.cs" />
     <Compile Include="kata\8kyu\SpeedCode2ArrayMadness.cs" />
     <Compile Include="kata\8kyu\SumOfPositive.cs" />
+    <Compile Include="kata\8kyu\ToSquareRootOrNotToSquareRoot.cs" />
     <Compile Include="kata\8kyu\VolumeOfCuboid.cs" />
     <Compile Include="UnitTests\8kyu\ConvertBooleanValuesToStringsYesOrNo_UnitTests.cs" />
     <Compile Include="UnitTests\8kyu\ConvertNumberToReversedArrayOfDigits_UnitTests.cs" />
@@ -63,6 +64,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnitTests\8kyu\SpeedCode2ArrayMadness_UnitTests.cs" />
     <Compile Include="UnitTests\8kyu\SumOfPositive_UnitTests.cs" />
+    <Compile Include="UnitTests\8kyu\ToSquareRootOrNotToSquareRoot_UnitTests.cs" />
     <Compile Include="UnitTests\8kyu\VolumeOfCuboid_UnitTests.cs" />
   </ItemGroup>
   <ItemGroup>

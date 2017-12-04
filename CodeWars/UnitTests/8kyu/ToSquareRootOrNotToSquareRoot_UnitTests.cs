@@ -7,7 +7,7 @@ namespace CodeWars.UnitTests._8kyu
     public class ToSquareRootOrNotToSquareRoot_UnitTests
     {
         [Test]
-        public void BasicTests()
+        public void ToSquareRootOrNotToSquareRoot_Tests()
         {
             var input = new int[] { 4, 3, 9, 7, 2, 1 };
             var expected = new int[] { 2, 9, 3, 49, 4, 1 };
