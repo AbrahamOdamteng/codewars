@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace CodeWars.kata._8kyu
+namespace CodeWars.kata._8kyu.EnumerableMagic
 {
     /// <summary>
     /// Create a method all which takes an array and a predicate (function pointer), 

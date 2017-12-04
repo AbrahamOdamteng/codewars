@@ -1,4 +1,4 @@
-﻿using CodeWars.kata._8kyu;
+﻿using CodeWars.kata._8kyu.EnumerableMagic;
 using NUnit.Framework;
 
 namespace CodeWars.UnitTests._8kyu
