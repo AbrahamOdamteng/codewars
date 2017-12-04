@@ -16,6 +16,7 @@ namespace CodeWars._8kyu
     {
         public static string Remove_char(string s)
         {
+            //could have used SubString(...)
             return new string(s.ToCharArray(1, s.Length - 2));
         }
     }
