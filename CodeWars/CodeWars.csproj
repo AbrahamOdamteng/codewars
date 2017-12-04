@@ -48,25 +48,33 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="kata\8kyu\AlternatingCase.cs" />
     <Compile Include="kata\8kyu\ConvertBooleanValuesToStringsYesOrNo.cs" />
     <Compile Include="kata\8kyu\ConvertNumberToReversedArrayOfDigits.cs" />
     <Compile Include="kata\8kyu\EnumerableMagic\EnumerableMagic1TrueForAll.cs" />
     <Compile Include="kata\8kyu\EnumerableMagic\EnumerableMagic2TrueForAny.cs" />
     <Compile Include="kata\8kyu\EnumerableMagic\EnumerableMagic4TrueForNone.cs" />
     <Compile Include="kata\8kyu\EnumerableMagic\EnumerableMagic5TrueForJustOne.cs" />
+    <Compile Include="kata\8kyu\EvenOrOddKata.cs" />
     <Compile Include="kata\8kyu\NumberOfPeopleInTheBus.cs" />
+    <Compile Include="kata\8kyu\OppositeNumber.cs" />
     <Compile Include="kata\8kyu\RemoveFirstAndLastCharacter.cs" />
+    <Compile Include="kata\8kyu\RemoveStringSpaces.cs" />
     <Compile Include="kata\8kyu\SpeedCode2ArrayMadness.cs" />
     <Compile Include="kata\8kyu\SumOfPositive.cs" />
     <Compile Include="kata\8kyu\ToSquareRootOrNotToSquareRoot.cs" />
     <Compile Include="kata\8kyu\VolumeOfCuboid.cs" />
+    <Compile Include="UnitTests\8kyu\AlternatingCase_UnitTests.cs" />
     <Compile Include="UnitTests\8kyu\ConvertBooleanValuesToStringsYesOrNo_UnitTests.cs" />
     <Compile Include="UnitTests\8kyu\ConvertNumberToReversedArrayOfDigits_UnitTests.cs" />
     <Compile Include="UnitTests\8kyu\EnumerableMagic\EnumerableMagic1TrueForAll_UnitTests.cs" />
     <Compile Include="UnitTests\8kyu\EnumerableMagic\EnumerableMagic2TrueForAny_UnitTests.cs" />
     <Compile Include="UnitTests\8kyu\EnumerableMagic\EnumerableMagic4TrueForNone_UnitTests.cs" />
     <Compile Include="UnitTests\8kyu\EnumerableMagic\EnumerableMagic5TrueForJustOne_UnitTests.cs" />
+    <Compile Include="UnitTests\8kyu\RemoveStringSpaces_UnitTests.cs" />
+    <Compile Include="UnitTests\8kyu\EvenOrOdd_UnitTests.cs" />
     <Compile Include="UnitTests\8kyu\NumberOfPeopleInTheBus_UnitTests.cs" />
+    <Compile Include="UnitTests\8kyu\OppositeNumber_UnitTests.cs" />
     <Compile Include="UnitTests\8kyu\RemoveFirstAndLastCharacter_UnitTests.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
