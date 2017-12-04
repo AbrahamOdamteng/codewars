@@ -1,15 +1,15 @@
-﻿using CodeWars._8kyu;
+﻿using CodeWars.kata._8kyu;
 using NUnit.Framework;
 
 namespace CodeWars.UnitTests._8kyu
 {
 
     [TestFixture]
-    class RemoveFirstAndLastCharacterUnitTests
+    class RemoveFirstAndLastCharacter_UnitTests
     {
 
         [Test]
-        public void RemoveFirstAndLastCharacter_Test1()
+        public void RemoveFirstAndLastCharacter_Test()
         {
             StringAssert.AreEqualIgnoringCase("loquen", RemoveFirstAndLastCharacter.Remove_char("eloquent"));
             StringAssert.AreEqualIgnoringCase("ountr", RemoveFirstAndLastCharacter.Remove_char("country"));
@@ -17,6 +17,5 @@ namespace CodeWars.UnitTests._8kyu
             StringAssert.AreEqualIgnoringCase("lac", RemoveFirstAndLastCharacter.Remove_char("place"));
             StringAssert.AreEqualIgnoringCase("", RemoveFirstAndLastCharacter.Remove_char("ok"));
         }
-
     }
 }

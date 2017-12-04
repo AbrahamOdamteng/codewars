@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CodeWars._8kyu
+﻿namespace CodeWars.kata._8kyu
 {
     /// <summary>
     /// It's pretty straightforward. Your goal is to create a function that removes the first and last characters of a string.
